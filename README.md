@@ -1,2 +1,2 @@
 # Waste-Oil-Supply-Dashboard
-My web app which uses TALL (Tailwind, Alpine, Laravel, Livewire)
+My web app, built with TALL (Tailwind, Alpine, Laravel, Livewire), is currently under development as we continue to add more features
